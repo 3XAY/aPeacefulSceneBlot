@@ -1,3 +1,5 @@
+# UPDATE: BLOT HAS BEEN CANCELLED, THIS REPO IS NO LONGER BEING WORKED ON - 3XAY
+
 # Blot, the plotter bot from Hack Club
 
 **[🕸 Landing Page](https://blot.hackclub.com)** | **[💻 Online Editor](https://blot.hackclub.com/editor)** | **[👀 Gallery](https://blot.hackclub.com/gallery)**
